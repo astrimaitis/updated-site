@@ -13,8 +13,9 @@
   }
 }
 
+
 .App-header {
-  background-color: #282c34;
+  background-color: #393e46;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,6 +27,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.Header-Sigature {
+  font-family: "Garamond";
+  font-style: bold;
 }
 
 @keyframes App-logo-spin {
